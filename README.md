@@ -1,0 +1,2 @@
+# babypaal
+BabyPaal Mining App
